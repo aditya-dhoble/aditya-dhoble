@@ -3,7 +3,7 @@
 
 - 🔭 I’m budding Software developer based out of Maharashtra
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on fronend development projects
+- 👯 I’m looking to collaborate on frontend projects
 - 💬 Ask me about anything you want to
 - 📫 How to reach me: 
 - 😄 Pronouns: he/him
