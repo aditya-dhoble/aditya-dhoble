@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Junior Software Developer
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on frontend projects
+- 👯 I’m looking to collaborate on SoftDev projects
 - 📫 How to reach me: dhobleaditya17@gmail.com 
 - 😄 Pronouns: he/him
 <!--
