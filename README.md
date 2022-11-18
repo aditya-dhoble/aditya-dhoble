@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Aditya
+### Hello👋 I'm Aditya
 
 
 - 🔭 I’m budding Software developer based out of Maharashtra
