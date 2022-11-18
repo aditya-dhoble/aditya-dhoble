@@ -1,10 +1,9 @@
 ### Hello👋 I'm Aditya
 
 
-- 🔭 I’m budding Software developer based out of Maharashtra
+- 🔭 I’m Junior Software Developer
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on frontend projects
-- 💬 Ask me about anything you want to
 - 📫 How to reach me: dhobleaditya17@gmail.com 
 - 😄 Pronouns: he/him
 <!--
