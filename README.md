@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm Aditya
 
-<!--
-**aditya-dhoble/aditya-dhoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m budding Software developer based out of Maharashtra
 - 🌱 I’m currently learning React
@@ -11,4 +7,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you want to
 - 📫 How to reach me: 
 - 😄 Pronouns: he/him
+<!--
+**aditya-dhoble/aditya-dhoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 -->
